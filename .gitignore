@@ -1,5 +1,8 @@
 .DS_Store
 
+#config.txt behalten
+config.txt
+
 ## Build generated
 build/
 DerivedData/
